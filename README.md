@@ -1,5 +1,7 @@
 # 🐺 Wildbeast
 
+
+Visualizar Projeto: [Clique aqui](https://moraislucas.github.io/curso-css-grid-layout/)
 <br>
 
 ## Projeto
@@ -12,9 +14,6 @@ colocando todos os conhecimentos aprendidos durante do curso.
 
 ## Layout
 ![](https://github.com/moraislucas/curso-css-grid-layout/blob/master/img/layout-git.jpg)
-
-
-<br>
 
 ## Aprendizados 
 - Todos os conceitos do CSS Grid Layout
