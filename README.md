@@ -1,4 +1,4 @@
-# 🐺 Wildbeast
+# Wildbeast
 
 <br>
 
