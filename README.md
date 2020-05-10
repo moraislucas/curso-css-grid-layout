@@ -11,8 +11,8 @@ colocando todos os conhecimentos aprendidos durante do curso.
 <br>
 
 ## Layout
+![](https://github.com/moraislucas/curso-css-grid-layout/blob/master/img/layout-git.jpg)
 
-Colocar as imagens do site
 
 <br>
 
